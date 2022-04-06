@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TammyAlbarracin 
+- 👀 I’m interested in ... cats, strawberries, coffee, manual testing, programming (I want to graduate soon :c), oh and Turkish novels(❁´◡`❁) <3
+- 🌱 I’m currently learning ... JS,TS, NODE, MongoDB, Angular
+- 📫 How to reach me ... tamara.micaela.albarracin@gmail.com
+- *Awkward silence and nervous laughter <in Spanish>*...
